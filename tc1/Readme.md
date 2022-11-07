@@ -4,6 +4,6 @@
 En esta actividad se evaluara los conocimientos en Unix
 
 **Datos Personales**
-Ciudad de origen: Loja
-Idiomas: Español, Inlges
-Deportes: aficonado futbol, basquet, boly
+-Ciudad de origen: Loja
+-Idiomas: Español, Inlges
+-Deportes: aficonado futbol, basquet, boly
