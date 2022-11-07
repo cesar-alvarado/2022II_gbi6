@@ -1,6 +1,6 @@
-#Tarea de clase 1
+# Tarea de clase 1
 
-##Cesar Alvarado
+## Cesar Alvarado
 
 En esta actividad se evaluara los conocimientos en Unix
 
